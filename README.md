@@ -1,4 +1,7 @@
 # sample-flask
+
+[![Build Status](https://github.com/gabfl/sample-flask/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/gabfl/sample-flask/actions)
+
 Flask basic example
 
 ## Installation
